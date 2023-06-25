@@ -1,9 +1,9 @@
 ﻿//Максимальное число массива.
 int a = 3;
-int b = 5;
+int b = 58;
 int c = 4;
 int d = 8;
-int e = 2;
+int e = 12;
 int i = 9;
 
 int max = a;
